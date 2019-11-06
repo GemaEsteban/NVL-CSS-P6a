@@ -1,0 +1,15 @@
+table{
+    width: 50%;
+}
+table, th, td{
+border: 1px solid black;
+border-collapse: collapse;
+background-color: aqua;
+}
+th, td{
+    padding: 15px;
+
+}
+body{
+    font: normal small-caps normal 15px/1.4 italic;
+}
